@@ -1,6 +1,7 @@
 package modelado_empresa;
 
 public class Empresa {
+
     private String nombreEmpresa;
     private String direccionEmpresa;
     private String telefonoEmpresa;
